@@ -1,6 +1,6 @@
 # 5 причин использовать ClojureScript
 
-![http://www.peoples.ru/art/music/composer/nikolaev/nikolaev_021.jpg]
+![](http://www.peoples.ru/art/music/composer/nikolaev/nikolaev_021.jpg)
 
 
 * langauge design
