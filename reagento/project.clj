@@ -20,6 +20,7 @@
                  [hiccup "1.0.5"]
                  [cheshire "5.6.1"]
                  [route-map "0.0.3"]
+                 [cljs-http "0.1.40"]
                  [yogthos/config "0.8"]
                  [org.clojure/clojurescript "1.8.40"
                   :scope "provided"]

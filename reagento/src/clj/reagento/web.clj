@@ -24,6 +24,7 @@
    (html5
     [:head
      [:meta {:charset "utf-8"}]
+     (include-css "//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css")
      [:meta {:name "viewport" :content "width=device-width, initial-scale=1"}]]
     [:body mount-target
      (include-js "/js/out/goog/base.js")
