@@ -58,6 +58,7 @@ Tools:
 Libs:
 
 * core.async
+* datascript
 * garden
 * prismatic schema
 * etc
@@ -69,3 +70,4 @@ Libs:
 
 #?{:clj ... :cljs ...}
 
+```
